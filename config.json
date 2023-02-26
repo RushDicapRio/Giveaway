@@ -1,0 +1,7 @@
+{
+  "token": "token du bot", 
+  "prefix": "préfix du bot",
+  "everyoneMention": false,
+  "copyright": "https://github.com/RushDicapRio",
+  "hostedBy": true
+}
